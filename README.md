@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prabheen09876
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Dart
 - 📫 How to reach me https://www.instagram.com/prabheen09876/?next=%2F
 
 <!---
