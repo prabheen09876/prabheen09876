@@ -2,6 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me https://www.instagram.com/prabheen09876/?next=%2F
+- Also me https://www.instagram.com/wtfabhe/
 
 
 <!---
